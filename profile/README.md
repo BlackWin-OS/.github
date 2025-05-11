@@ -21,12 +21,17 @@ The latest release, **BlackWin v4**, is built on **Windows 11** and is developed
 
 - 🛠 **600+ Built-in Security Tools**  
   Covers all domains of cybersecurity:
-    - Network & infrastructure exploitation
-    - Reverse engineering and binary analysis
-    - Web application security
-    - Android & IoT hacking
-    - Red Team post-exploitation tools
-    - DDoS, RATs, and hardware-level exploits
+    - Vulnerability Analysis
+    - Web Application Testing
+    - Password Attacks
+    - Reverse Engineering
+    - Malware Analysis
+    - Android & Mobile Hacking
+    - Post-Exploitation
+    - Denial of Service (DoS/DDoS)
+    - Social Engineering
+    - Forensics & Monitoring
+    - Custom Tools by Abdal
 
 - 🐚 **1000+ Shells, Payloads & Exploits**  
   A curated archive of pre-built and custom attack vectors, organized by category and target.
