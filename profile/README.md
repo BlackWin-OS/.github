@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="BlackWin Logo" width="250"/>
+  <img src="logo.png" alt="BlackWin Logo" />
 </p>
 
 # BlackWin OS
