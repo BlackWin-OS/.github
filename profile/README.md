@@ -17,7 +17,7 @@ The latest release, **BlackWin v4**, is built on **Windows 11** and is developed
 ## ⚙️ Features
 
 - ✅ **Windows 11 Core**  
-  Built upon a fully functional Windows 11 Pro environment, combining usability with native Windows compatibility.
+  Built upon a fully functional Windows 11 Enterprise environment, combining usability with native Windows compatibility.
 
 - 🛠 **600+ Built-in Security Tools**  
   Covers all domains of cybersecurity:
