@@ -41,7 +41,7 @@ The latest release, **BlackWin v4**, is built on **Windows 11** and is developed
 
 ## 👤 Developed By
 
-- 🧠 **Team Abdal** — A leading Iranian cybersecurity collective
+- 🧠 **Abdal Group** — A leading Iranian cybersecurity collective
 - 👨‍💻 **Lead Architect**: *Ebrahim Shafiei* (a.k.a. **EbraSha**)  
   Specialist in low-level systems, exploit development, AI-driven threat analysis, and ethical hacking education.
 
