@@ -21,17 +21,32 @@ The latest release, **BlackWin v4**, is built on **Windows 11** and is developed
 
 - 🛠 **600+ Built-in Security Tools**  
   Covers all domains of cybersecurity:
-    - Vulnerability Analysis
-    - Web Application Testing
-    - Password Attacks
-    - Reverse Engineering
-    - Malware Analysis
-    - Android & Mobile Hacking
-    - Post-Exploitation
-    - Denial of Service (DoS/DDoS)
-    - Social Engineering
-    - Forensics & Monitoring
-    - Custom Tools by Abdal
+	- **DDOS Attacks**: Tools for Distributed Denial of Service attacks.
+	- **Exploitation Tools**: Tools for discovering and exploiting system and software vulnerabilities.
+	- **Forensic**: Digital forensic tools for investigating and analyzing cybercrimes.
+	- **Hardware Hacking**: Tools for hardware hacking and accessing physical systems.
+	- **Information Gathering**: Tools for collecting sensitive information and data.
+	- **Multimedia**: Tools for processing and analyzing multimedia content.
+	- **Network & Internet**: Network and internet-related tools for testing and analysis.
+	- **Mobile Tools**: Tools specifically for mobile device inspection and security.
+	- **Password Attacks**: Tools for password-related attacks.
+	- **Programming**: Support tools for programming and development.
+	- **Rat & SpyWare**: Tools for spying and managing malicious operations.
+	- **Remote Control**: Tools for remote control of systems.
+	- **Reverse Engineering**: Tools for reverse engineering and software analysis.
+	- **Security**: A collection of various tools to enhance system security.
+	- **Sniffing & Spoofing**: Tools for sniffing and spoofing network packets.
+	- **Utility**: General tools for system management.
+	- **Virus Coding**: Tools for virus coding.
+	- **Web Applications**: Tools for analyzing and security testing of web applications.
+	- **Wireless Attacks**: Tools for wireless attacks.
+	- **Special Command Line Engine**: Tools for managing and executing special command-line operations.
+	- **Powerful Programming Support**: Tools for powerful programming support.
+	- **Reporting Tools**: Tools for reporting and documenting activities.
+	- **Malware Analysis Tools**: Tools for analyzing and examining malware.
+	- **Collection of the Best Python3 and Python2 Libraries**: A collection of the best Python3 and Python2 libraries.
+	- **Most Unix Support Command**: Tools for supporting most Unix commands.
+
 
 - 🐚 **1000+ Shells, Payloads & Exploits**  
   A curated archive of pre-built and custom attack vectors, organized by category and target.
